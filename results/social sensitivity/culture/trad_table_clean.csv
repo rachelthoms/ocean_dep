@@ -1,0 +1,236 @@
+,resource_id,sg_dep_median,sg_dep_cat,tradition,ParentGlobalID,gitonga_s,gitonga_p,portuguese,scientific,family,phylum,category,focal,id,ccp,gender,fish_pract,pract_cat
+234,01,0.0,none,1.0,d63dc568-99da-438e-bd41-3a79bf13b0d9,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,07022023CUGBO8,kuguana,f,glean,glean
+19,03,0.5,none,1.0,5861a90d-3554-4a81-b5e8-e8f9870b88fb,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB02,chamane,m,hand_line,fish
+95,70,0.0,none,1.0,1469e0fd-0691-405e-b1e8-c144e854fbb7,nhakumbe,,Amêijoa,Serratina capsoides,Tellinidae,mollusc,bivalve,1.0,09022023NHMPB03,nhampossa,f,shrimp_net,shrimp_net
+99,78,0.0,none,1.0,a9325c3b-f81d-431a-9628-6b0b57ede5e3,togoma,dzitogoma,Caracóis,Volema pyrum,Melongenidae,mollusc,gastropod,1.0,09022023NHMPB05,nhampossa,f,gill_net,fish
+100,70,0.0,none,1.0,e12a739b-ed4a-4ff7-94db-d034a066dd23,nhakumbe,,Amêijoa,Serratina capsoides,Tellinidae,mollusc,bivalve,1.0,08022023MADB01,madava,f,shrimp_net,shrimp_net
+101,70,0.0,none,1.0,e12a739b-ed4a-4ff7-94db-d034a066dd23,nhakumbe,,Amêijoa,Serratina capsoides,Tellinidae,mollusc,bivalve,1.0,08022023MADB01,madava,f,fence_trap,fish
+104,78,0.0,none,1.0,6aff3bd5-1d7f-4dfc-a530-7fd33a3b1432,togoma,dzitogoma,Caracóis,Volema pyrum,Melongenidae,mollusc,gastropod,1.0,08022023MADB05,madava,m,gill_net,fish
+105,01,0.0,none,1.0,8407b1b2-9c62-4161-a560-a8c8415ca76a,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,08022023MADB06,madava,m,gill_net,fish
+106,70,0.0,none,1.0,8c5ddba3-d736-4831-b7e4-f18bb3d47eae,nhakumbe,,Amêijoa,Serratina capsoides,Tellinidae,mollusc,bivalve,1.0,08022023MADB07,madava,f,glean,glean
+107,52,0.0,none,1.0,1436c090-ffc1-44f1-8a1f-115e2164b9b1,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB08,madava,f,shrimp_net,shrimp_net
+108,52,0.0,none,1.0,1436c090-ffc1-44f1-8a1f-115e2164b9b1,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB08,madava,f,glean,glean
+126,01,0.0,none,1.0,c084112a-11e6-48d0-848c-4b62c67bb16f,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,09032023NHCHB08,nhamaxaxa,f,shrimp_net,shrimp_net
+127,01,0.0,none,1.0,c084112a-11e6-48d0-848c-4b62c67bb16f,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,09032023NHCHB08,nhamaxaxa,f,glean,glean
+134,01,0.0,none,1.0,2dd5e1ed-eeed-47b2-827d-a0705fc23c7a,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,14022023SAHB03,sahane,f,glean,glean
+146,01,0.0,none,1.0,dc97eb44-cd78-4a2c-88bb-90d04851de2c,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04032023NGUB03,nguja,f,glean,glean
+9,03,0.5,none,1.0,4baf4004-6764-4530-a467-07a85d6231ee,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,16022023NHMUB04,nhamua,f,shrimp_net,shrimp_net
+2,03,0.5,none,1.0,3f3b6da1-f4ee-467b-9647-aefe9851351f,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,16022023NHMUB05,nhamua,f,glean,glean
+175,56,1.5,mod,1.0,943aa64d-7c5c-4594-944e-529e0b325617,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,01022023MOR04,morrumbene,f,glean,glean
+223,01,0.0,none,1.0,f24eae6e-daf3-4cb3-bc7f-4c8139f8238b,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,07022023CUGB03,kuguana,f,glean,glean
+176,01,0.0,none,1.0,d92b97c0-4a75-4f45-9115-4cb6ac9109ad,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,01022023MORBO5,morrumbene,m,fence_trap,fish
+180,01,0.0,none,1.0,275be6f1-5e39-4787-a0f6-e532bee2ef83,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,01022023MORB07,morrumbene,m,glean,glean
+8,61,3.0,high,1.0,310a5eff-b95e-4979-a0dd-c98a7703f436,livalo,mavalo,ostra,Margaritidae,Margaritidae,mollusc,bivalve,1.0,13022023NHMUB03,nhamua,m,glean,glean
+7,61,3.0,high,1.0,310a5eff-b95e-4979-a0dd-c98a7703f436,livalo,mavalo,ostra,Margaritidae,Margaritidae,mollusc,bivalve,1.0,13022023NHMUB03,nhamua,m,gill_net,fish
+179,01,0.0,none,1.0,275be6f1-5e39-4787-a0f6-e532bee2ef83,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,01022023MORB07,morrumbene,m,drag_net,fish
+224,01,0.0,none,0.9,368b8b4c-a618-434a-8ebe-7f7fa8c143fc,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,07022023CUGB05,kuguana,m,drag_net,fish
+151,01,0.0,none,0.7333333333333333,efe0ad7e-97bf-4dbb-802a-4e8575a54c9d,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04032023NGUB06,nguja,m,gill_net,fish
+161,01,0.0,none,0.7333333333333333,04827c1d-3bba-4bcb-a8be-1af1c071e30f,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,01022023MORB02,morrumbene,f,shrimp_net,shrimp_net
+162,01,0.0,none,0.7333333333333333,04827c1d-3bba-4bcb-a8be-1af1c071e30f,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,01022023MORB02,morrumbene,f,glean,glean
+102,01,0.0,none,0.6666666666666666,be5b94c1-65c2-44dc-af3c-8a0c1f35f055,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,08022023MADB02,madava,m,drag_net,fish
+149,01,0.0,none,0.6666666666666666,8abbe022-1d3d-4f37-989c-f804596f7402,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04032023NGUB05,nguja,m,gill_net,fish
+147,01,0.0,none,0.6666666666666666,e333971e-3a2f-473c-9783-d10538bbc0aa,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04032023NGUB04,nguja,m,hand_line,fish
+1,03,0.5,none,0.6666666666666666,5242b473-cb0e-43ec-bc8f-6e626f4ee1d3,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,13022023NHAMUB02,nhamua,f,glean,glean
+135,01,0.0,none,0.6666666666666666,0452b1c9-a249-4667-bf24-bb6969858009,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,14022023SAHB04,sahane,f,glean,glean
+42,01,0.0,none,0.6666666666666666,6e76bb44-7881-4dfe-aff2-019452e7f1ef,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB02,marrambone,f,glean,glean
+43,01,0.0,none,0.6666666666666666,6e76bb44-7881-4dfe-aff2-019452e7f1ef,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB02,marrambone,f,shrimp_net,shrimp_net
+112,02,0.0,none,0.6666666666666666,43fe56c7-3c31-4683-bea1-c741c3af6618,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,17022023NHCHB03,nhamaxaxa,m,gill_net,fish
+6,03,0.5,none,0.6666666666666666,1205bf41-13d7-4421-b564-4a77c527cd17,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,13022023NHMUB01,nhamua,m,fence_trap,fish
+12,03,0.5,none,0.6666666666666666,3e185060-4034-4ece-9bd3-fa7aad0a4c83,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,15022023JOSB03,josina_machel,m,glean,glean
+10,56,1.5,mod,0.6666666666666666,0d25df79-dc4d-42aa-9bc9-3b705d683d68,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,16022023NHMUB06,nhamua,m,gill_net,fish
+140,01,0.0,none,0.6333333333333333,5bca4453-f66b-40bc-a54d-09fab62566e6,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,14022023SAHB08,sahane,m,fence_trap,fish
+226,01,0.0,none,0.5666666666666667,454f8afd-86aa-4418-80e3-4e1ccb572b8c,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,07022023CUGB06,kuguana,m,fence_trap,fish
+73,01,0.0,none,0.5666666666666667,47619fa4-71bc-4eef-b706-4e52c3cd7db8,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,31012023MUCB01,mucucune,m,basket_trap,fish
+94,03,0.5,none,0.5666666666666667,a00016e0-0782-4f50-a9a8-4a5e202f5c50,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,09022023NHMPB02,nhampossa,m,gill_net,fish
+50,01,0.0,none,0.5333333333333333,fa135abb-d0cf-4f86-81fa-d786fd8a957a,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB04,marrambone,f,shrimp_net,shrimp_net
+177,01,0.0,none,0.5333333333333333,b4a29a62-c0e1-40fd-835b-a134449801ca,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,O1O22023MOR06,morrumbene,m,drag_net,fish
+27,01,0.0,none,0.5333333333333333,6b249316-c1e7-4f4f-a49f-435e11af63a2,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04022023CHAB07,chamane,m,gill_net,fish
+61,01,0.0,none,0.5333333333333333,a9a9124d-f801-444e-a6ac-6f1064ecb6a6,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB06,marrambone,m,hand_line,fish
+75,01,0.0,none,0.5333333333333333,b1aecc22-d28c-4728-9c70-966d76a26e88,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,31012023MUB02,mucucune,m,fence_trap,fish
+17,01,0.0,none,0.5333333333333333,21b02f45-d7ae-4f05-9a52-89dad34349af,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04022023CHAB01,chamane,m,glean,glean
+51,01,0.0,none,0.5333333333333333,fa135abb-d0cf-4f86-81fa-d786fd8a957a,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB04,marrambone,f,gill_net,fish
+29,01,0.0,none,0.5333333333333333,6b249316-c1e7-4f4f-a49f-435e11af63a2,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04022023CHAB07,chamane,m,glean,glean
+49,01,0.0,none,0.5333333333333333,fa135abb-d0cf-4f86-81fa-d786fd8a957a,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB04,marrambone,f,glean,glean
+157,01,0.0,none,0.5333333333333333,5bf5b760-0855-442e-8ccf-d32db9f09235,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,01022023MORB01,morrumbene,m,shrimp_net,shrimp_net
+28,01,0.0,none,0.5333333333333333,6b249316-c1e7-4f4f-a49f-435e11af63a2,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04022023CHAB07,chamane,m,shrimp_net,shrimp_net
+86,03,0.5,none,0.5333333333333333,a744e3c9-d3d2-4588-b6cd-900a3f4f4286,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,31012023MUCB07,mucucune,f,shrimp_net,shrimp_net
+72,03,0.5,none,0.5,926e019e-024f-43c8-8bfb-1a8170a861dd,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB09,marrambone,f,shrimp_net,shrimp_net
+91,01,0.0,none,0.5,cc36442d-39f0-46d9-996a-421e2a247b36,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,09022023NHMPB01,nhampossa,m,basket_trap,fish
+71,01,0.0,none,0.5,926e019e-024f-43c8-8bfb-1a8170a861dd,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB09,marrambone,f,shrimp_net,shrimp_net
+84,03,0.5,none,0.5,72b20ec3-78b0-44b1-8f62-06504a26e4c5,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,31012023MUCB06,mucucune,m,gill_net,fish
+153,63,0.0,none,0.5,8c4c8baa-dafa-48c6-bb34-4944108c5851,nhamunhe,,Amêijoa,Tapes literatus,Veneridae,mollusc,bivalve,1.0,04032023NGUB07,nguja,f,shrimp_net,shrimp_net
+82,03,0.5,none,0.5,942decee-217f-4b36-be4c-3948ed7665d0,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,31012023MUCB05,mucucune,m,hand_line,fish
+14,03,0.5,none,0.5,e6132e33-e9f3-45ea-a5cf-7d565844a22c,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,15022023JOSB06,josina_machel,m,hand_line,fish
+81,01,0.0,none,0.5,942decee-217f-4b36-be4c-3948ed7665d0,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,31012023MUCB05,mucucune,m,hand_line,fish
+80,03,0.5,none,0.5,668fcae1-2e89-417d-b2f7-cca29ae88fcf,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,31012023MUCB04,mucucune,f,glean,glean
+92,03,0.5,none,0.5,cc36442d-39f0-46d9-996a-421e2a247b36,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,09022023NHMPB01,nhampossa,m,basket_trap,fish
+79,01,0.0,none,0.5,668fcae1-2e89-417d-b2f7-cca29ae88fcf,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,31012023MUCB04,mucucune,f,glean,glean
+77,01,0.0,none,0.5,84267d00-7c2a-415c-b15e-d1f3a08a24ea,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,31012023MUCB03,mucucune,f,glean,glean
+78,03,0.5,none,0.5,84267d00-7c2a-415c-b15e-d1f3a08a24ea,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,31012023MUCB03,mucucune,f,glean,glean
+83,01,0.0,none,0.5,72b20ec3-78b0-44b1-8f62-06504a26e4c5,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,31012023MUCB06,mucucune,m,gill_net,fish
+156,03,0.5,none,0.5,c07b295a-d4ce-4f79-b7c1-c11f284e02c4,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04032023NGUB08,nguja,f,shrimp_net,shrimp_net
+202,03,0.5,none,0.5,27221a9d-a61e-4908-8da8-4e0e2783119e,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,19022023ILHB08,ilha,f,glean,glean
+21,01,0.0,none,0.5,d4d143b4-de71-42bd-be9e-b42bcadd5863,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04022023CHAB03,chamane,m,shrimp_net,shrimp_net
+22,03,0.5,none,0.5,d4d143b4-de71-42bd-be9e-b42bcadd5863,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB03,chamane,m,hand_line,fish
+20,01,0.0,none,0.5,d4d143b4-de71-42bd-be9e-b42bcadd5863,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04022023CHAB03,chamane,m,hand_line,fish
+3,01,0.0,none,0.5,8b4320ee-bf8d-4616-b0bc-d8bc33e9cc99,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,16022023NHMUB07,nhamua,m,gill_net,fish
+4,03,0.5,none,0.5,8b4320ee-bf8d-4616-b0bc-d8bc33e9cc99,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,16022023NHMUB07,nhamua,m,gill_net,fish
+46,01,0.0,none,0.5,ae7d8f6f-e1d1-484c-b65d-5b64c4bec7b8,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB03,marrambone,f,shrimp_net,shrimp_net
+23,03,0.5,none,0.5,d4d143b4-de71-42bd-be9e-b42bcadd5863,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB03,chamane,m,shrimp_net,shrimp_net
+154,69,0.0,none,0.5,8c4c8baa-dafa-48c6-bb34-4944108c5851,simbatsani,simbatsani,,Garfarium pectinatum,Veneridae,mollusc,bivalve,1.0,04032023NGUB07,nguja,f,shrimp_net,shrimp_net
+201,01,0.0,none,0.5,27221a9d-a61e-4908-8da8-4e0e2783119e,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,19022023ILHB08,ilha,f,glean,glean
+192,03,0.5,none,0.5,6cd30d28-9c1e-4148-a597-7b9d40fc1ae2,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,18022023ILHB04,ilha,m,shrimp_net,shrimp_net
+182,03,0.5,none,0.5,3f9d47fc-5dc8-4cf3-9ee0-ac3b9d7d8390,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,08032023MORB08,morrumbene,m,hand_line,fish
+181,01,0.0,none,0.5,3f9d47fc-5dc8-4cf3-9ee0-ac3b9d7d8390,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,08032023MORB08,morrumbene,m,hand_line,fish
+16,03,0.5,none,0.5,59848ba5-82a3-4de3-b546-44d37605c0d9,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,15022023JOSB07,josina_machel,m,diving,fish
+15,01,0.0,none,0.5,59848ba5-82a3-4de3-b546-44d37605c0d9,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,15022023JOSB07,josina_machel,m,diving,fish
+155,01,0.0,none,0.5,c07b295a-d4ce-4f79-b7c1-c11f284e02c4,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04032023NGUB08,nguja,f,shrimp_net,shrimp_net
+13,01,0.0,none,0.5,e6132e33-e9f3-45ea-a5cf-7d565844a22c,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,15022023JOSB06,josina_machel,m,hand_line,fish
+32,03,0.5,none,0.4666666666666667,6b249316-c1e7-4f4f-a49f-435e11af63a2,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB07,chamane,m,glean,glean
+31,03,0.5,none,0.4666666666666667,6b249316-c1e7-4f4f-a49f-435e11af63a2,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB07,chamane,m,shrimp_net,shrimp_net
+69,03,0.5,none,0.4666666666666667,53eb3e09-7bc8-4d11-868d-4415c4329998,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB08,marrambone,m,basket_trap,fish
+25,02,0.0,none,0.4666666666666667,7dc8a846-da63-495f-815e-10c1c4b6720d,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,04022023CHAB04,chamane,f,shrimp_net,shrimp_net
+85,01,0.0,none,0.4666666666666667,a744e3c9-d3d2-4588-b6cd-900a3f4f4286,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,31012023MUCB07,mucucune,f,shrimp_net,shrimp_net
+76,03,0.5,none,0.4666666666666667,b1aecc22-d28c-4728-9c70-966d76a26e88,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,31012023MUB02,mucucune,m,fence_trap,fish
+178,54,3.0,high,0.4666666666666667,b4a29a62-c0e1-40fd-835b-a134449801ca,honho,mihonho,Lula,Loliginidae,Loliginidae,cephlopod,cephlopods,1.0,O1O22023MOR06,morrumbene,m,drag_net,fish
+18,03,0.5,none,0.4666666666666667,21b02f45-d7ae-4f05-9a52-89dad34349af,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB01,chamane,m,glean,glean
+30,03,0.5,none,0.4666666666666667,6b249316-c1e7-4f4f-a49f-435e11af63a2,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB07,chamane,m,gill_net,fish
+93,01,0.0,none,0.4333333333333333,a00016e0-0782-4f50-a9a8-4a5e202f5c50,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,09022023NHMPB02,nhampossa,m,gill_net,fish
+74,03,0.5,none,0.4333333333333333,47619fa4-71bc-4eef-b706-4e52c3cd7db8,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,31012023MUCB01,mucucune,m,basket_trap,fish
+111,03,0.5,none,0.4333333333333333,8719e18a-7160-440e-884e-330fdba6d7a1,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,17022023NHCHB02,nhamaxaxa,f,glean,glean
+128,01,0.0,none,0.4333333333333333,fbee7783-67bd-4ec0-86d8-32300ae0d600,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,14022023SAHB01,sahane,m,shrimp_net,shrimp_net
+138,50,3.0,high,0.4,b5c8d980-c4f9-408d-93d1-0b4dad9a664c,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,14022023SAHB05,sahane,f,glean,glean
+137,01,0.0,none,0.4,b5c8d980-c4f9-408d-93d1-0b4dad9a664c,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,14022023SAHB05,sahane,f,glean,glean
+132,02,0.0,none,0.4,f1ab0d58-a047-4854-9fab-5639a38d0919,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,14022023SAHB02,sahane,m,hand_line,fish
+98,03,0.5,none,0.4,caac8748-ebed-413c-a5d2-a635b5bd8932,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,09022023NHMPB04,nhampossa,m,fence_trap,fish
+68,01,0.0,none,0.4,53eb3e09-7bc8-4d11-868d-4415c4329998,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB08,marrambone,m,basket_trap,fish
+196,01,0.0,none,0.4,c0927898-6afe-4a7f-98d1-4ec395b0e647,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,1902023ILHB06,ilha,f,shrimp_net,shrimp_net
+97,01,0.0,none,0.4,caac8748-ebed-413c-a5d2-a635b5bd8932,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,09022023NHMPB04,nhampossa,m,fence_trap,fish
+60,74,0.0,none,0.4,e8d84b41-6838-4a4d-b98d-66385c122993,likolo,makolo,Caracóis,Potamididae,Potamididae,mollusc,gastropod,1.0,02022023MARB05,marrambone,m,fence_trap,fish
+195,01,0.0,none,0.4,c0927898-6afe-4a7f-98d1-4ec395b0e647,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,1902023ILHB06,ilha,f,glean,glean
+37,56,1.5,mod,0.3666666666666666,fb35740b-c147-41b7-b604-35eed1bf5c77,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,04022023CHAB08,chamane,m,gill_net,fish
+26,03,0.5,none,0.3666666666666666,7dc8a846-da63-495f-815e-10c1c4b6720d,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB04,chamane,f,shrimp_net,shrimp_net
+38,56,1.5,mod,0.3666666666666666,fb35740b-c147-41b7-b604-35eed1bf5c77,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,04022023CHAB08,chamane,m,shrimp_net,shrimp_net
+39,02,0.0,none,0.3666666666666666,786726d4-2b8e-46a0-ab5f-1339cbe1ab7b,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,26012023MARB01,marrambone,f,shrimp_net,shrimp_net
+40,03,0.5,none,0.3666666666666666,786726d4-2b8e-46a0-ab5f-1339cbe1ab7b,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,26012023MARB01,marrambone,f,shrimp_net,shrimp_net
+35,03,0.5,none,0.3666666666666666,fb35740b-c147-41b7-b604-35eed1bf5c77,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB08,chamane,m,gill_net,fish
+89,03,0.5,none,0.3666666666666666,615838ac-55f5-4537-ba76-fecefaddd226,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,31012023MUCB08,mucucune,f,shrimp_net,shrimp_net
+36,03,0.5,none,0.3666666666666666,fb35740b-c147-41b7-b604-35eed1bf5c77,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB08,chamane,m,shrimp_net,shrimp_net
+87,01,0.0,none,0.3666666666666666,615838ac-55f5-4537-ba76-fecefaddd226,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,31012023MUCB08,mucucune,f,shrimp_net,shrimp_net
+66,03,0.5,none,0.3666666666666666,c4bf73af-5f99-4b43-abd8-9373a369c415,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB07,marrambone,m,gill_net,fish
+145,02,0.0,none,0.3333333333333333,a6e2b0b2-8d88-42c8-b600-7b0619713312,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,04032023NGUB01,nguja,m,hand_line,fish
+144,03,0.5,none,0.3333333333333333,a6e2b0b2-8d88-42c8-b600-7b0619713312,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04032023NGUB01,nguja,m,hand_line,fish
+150,02,0.0,none,0.3333333333333333,8abbe022-1d3d-4f37-989c-f804596f7402,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,04032023NGUB05,nguja,m,gill_net,fish
+5,01,0.0,none,0.3333333333333333,1205bf41-13d7-4421-b564-4a77c527cd17,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,13022023NHMUB01,nhamua,m,fence_trap,fish
+211,01,0.0,none,0.3333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,24012023CUGB02,kuguana,m,shrimp_net,shrimp_net
+212,01,0.0,none,0.3333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,24012023CUGB02,kuguana,m,glean,glean
+136,02,0.0,none,0.3333333333333333,0452b1c9-a249-4667-bf24-bb6969858009,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,14022023SAHB04,sahane,f,glean,glean
+213,01,0.0,none,0.3333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,24012023CUGB02,kuguana,m,gill_net,fish
+148,03,0.5,none,0.3333333333333333,e333971e-3a2f-473c-9783-d10538bbc0aa,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04032023NGUB04,nguja,m,hand_line,fish
+11,02,0.0,none,0.3333333333333333,3e185060-4034-4ece-9bd3-fa7aad0a4c83,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,15022023JOSB03,josina_machel,m,glean,glean
+143,01,0.0,none,0.3333333333333333,a6e2b0b2-8d88-42c8-b600-7b0619713312,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04032023NGUB01,nguja,m,hand_line,fish
+0,01,0.0,none,0.3333333333333333,5242b473-cb0e-43ec-bc8f-6e626f4ee1d3,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,13022023NHAMUB02,nhamua,f,glean,glean
+103,03,0.5,none,0.3333333333333333,be5b94c1-65c2-44dc-af3c-8a0c1f35f055,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,08022023MADB02,madava,m,drag_net,fish
+65,02,0.0,none,0.3333333333333333,c4bf73af-5f99-4b43-abd8-9373a369c415,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,02022023MARB07,marrambone,m,gill_net,fish
+44,03,0.5,none,0.3333333333333333,6e76bb44-7881-4dfe-aff2-019452e7f1ef,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB02,marrambone,f,glean,glean
+125,03,0.5,none,0.3333333333333333,8536dca4-ea83-4248-865b-3b13873d1a90,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,09032023NHCHB07,nhamaxaxa,m,hand_line,fish
+124,02,0.0,none,0.3333333333333333,8536dca4-ea83-4248-865b-3b13873d1a90,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,09032023NHCHB07,nhamaxaxa,m,hand_line,fish
+123,01,0.0,none,0.3333333333333333,8536dca4-ea83-4248-865b-3b13873d1a90,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,09032023NHCHB07,nhamaxaxa,m,hand_line,fish
+122,03,0.5,none,0.3333333333333333,ba1de70c-3350-4192-9540-077338da9ce6,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,17022023NHCHB05,nhamaxaxa,m,hand_line,fish
+121,02,0.0,none,0.3333333333333333,ba1de70c-3350-4192-9540-077338da9ce6,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,17022023NHCHB05,nhamaxaxa,m,hand_line,fish
+45,03,0.5,none,0.3333333333333333,6e76bb44-7881-4dfe-aff2-019452e7f1ef,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB02,marrambone,f,shrimp_net,shrimp_net
+120,01,0.0,none,0.3333333333333333,ba1de70c-3350-4192-9540-077338da9ce6,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,17022023NHCHB05,nhamaxaxa,m,hand_line,fish
+109,01,0.0,none,0.3333333333333333,8719e18a-7160-440e-884e-330fdba6d7a1,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,17022023NHCHB02,nhamaxaxa,f,glean,glean
+52,03,0.5,none,0.3333333333333333,fa135abb-d0cf-4f86-81fa-d786fd8a957a,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB04,marrambone,f,glean,glean
+53,03,0.5,none,0.3333333333333333,fa135abb-d0cf-4f86-81fa-d786fd8a957a,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB04,marrambone,f,shrimp_net,shrimp_net
+54,03,0.5,none,0.3333333333333333,fa135abb-d0cf-4f86-81fa-d786fd8a957a,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB04,marrambone,f,gill_net,fish
+113,03,0.5,none,0.3333333333333333,43fe56c7-3c31-4683-bea1-c741c3af6618,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,17022023NHCHB03,nhamaxaxa,m,gill_net,fish
+116,03,0.5,none,0.3333333333333333,affb9ddf-bde5-4005-8a5c-962978da994f,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,17022023NHCHB04,nhamaxaxa,m,gill_net,fish
+131,01,0.0,none,0.3,f1ab0d58-a047-4854-9fab-5639a38d0919,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,14022023SAHB02,sahane,m,hand_line,fish
+59,03,0.5,none,0.3,e8d84b41-6838-4a4d-b98d-66385c122993,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB05,marrambone,m,fence_trap,fish
+58,01,0.0,none,0.3,e8d84b41-6838-4a4d-b98d-66385c122993,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB05,marrambone,m,fence_trap,fish
+47,74,0.0,none,0.3,ae7d8f6f-e1d1-484c-b65d-5b64c4bec7b8,likolo,makolo,Caracóis,Potamididae,Potamididae,mollusc,gastropod,1.0,02022023MARB03,marrambone,f,shrimp_net,shrimp_net
+130,02,0.0,none,0.3,fbee7783-67bd-4ec0-86d8-32300ae0d600,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,14022023SAHB01,sahane,m,shrimp_net,shrimp_net
+133,03,0.5,none,0.3,f1ab0d58-a047-4854-9fab-5639a38d0919,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,14022023SAHB02,sahane,m,hand_line,fish
+152,02,0.0,none,0.2666666666666666,efe0ad7e-97bf-4dbb-802a-4e8575a54c9d,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,04032023NGUB06,nguja,m,gill_net,fish
+171,52,0.0,none,0.2666666666666666,f33778b3-3301-4691-80c6-68692988559b,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MORB03,morrumbene,f,shrimp_net,shrimp_net
+229,01,0.0,none,0.2666666666666666,1dfbdb30-77d7-4a1e-aaf1-2a5bccccfb75,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,07022023CUGB07,kuguana,m,fence_trap,fish
+41,56,1.5,mod,0.2666666666666666,786726d4-2b8e-46a0-ab5f-1339cbe1ab7b,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,26012023MARB01,marrambone,f,shrimp_net,shrimp_net
+34,02,0.0,none,0.2666666666666666,fb35740b-c147-41b7-b604-35eed1bf5c77,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,04022023CHAB08,chamane,m,shrimp_net,shrimp_net
+210,56,1.5,mod,0.2666666666666666,412ebe42-d0ab-49cd-a390-790fb5dd06a9,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,24012023CUGB02,kuguana,m,gill_net,fish
+209,56,1.5,mod,0.2666666666666666,412ebe42-d0ab-49cd-a390-790fb5dd06a9,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,24012023CUGB02,kuguana,m,glean,glean
+208,56,1.5,mod,0.2666666666666666,412ebe42-d0ab-49cd-a390-790fb5dd06a9,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,24012023CUGB02,kuguana,m,shrimp_net,shrimp_net
+203,01,0.0,none,0.2666666666666666,217d4e9d-94cc-407a-9aaf-9dabfa977971,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,24012023CUGB01,kuguana,m,drag_net,fish
+200,50,3.0,high,0.2666666666666666,c0927898-6afe-4a7f-98d1-4ec395b0e647,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,1902023ILHB06,ilha,f,shrimp_net,shrimp_net
+129,03,0.5,none,0.2666666666666666,fbee7783-67bd-4ec0-86d8-32300ae0d600,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,14022023SAHB01,sahane,m,shrimp_net,shrimp_net
+174,56,1.5,mod,0.2666666666666666,f33778b3-3301-4691-80c6-68692988559b,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,01022023MORB03,morrumbene,f,glean,glean
+173,56,1.5,mod,0.2666666666666666,f33778b3-3301-4691-80c6-68692988559b,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,01022023MORB03,morrumbene,f,shrimp_net,shrimp_net
+172,52,0.0,none,0.2666666666666666,f33778b3-3301-4691-80c6-68692988559b,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MORB03,morrumbene,f,glean,glean
+199,50,3.0,high,0.2666666666666666,c0927898-6afe-4a7f-98d1-4ec395b0e647,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,1902023ILHB06,ilha,f,glean,glean
+33,02,0.0,none,0.2666666666666666,fb35740b-c147-41b7-b604-35eed1bf5c77,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,04022023CHAB08,chamane,m,gill_net,fish
+168,01,0.0,none,0.2333333333333333,f33778b3-3301-4691-80c6-68692988559b,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,01022023MORB03,morrumbene,f,glean,glean
+63,74,0.0,none,0.2333333333333333,a9a9124d-f801-444e-a6ac-6f1064ecb6a6,likolo,makolo,Caracóis,Potamididae,Potamididae,mollusc,gastropod,1.0,02022023MARB06,marrambone,m,hand_line,fish
+110,02,0.0,none,0.2333333333333333,8719e18a-7160-440e-884e-330fdba6d7a1,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,17022023NHCHB02,nhamaxaxa,f,glean,glean
+227,55,1.0,low,0.2333333333333333,454f8afd-86aa-4418-80e3-4e1ccb572b8c,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,07022023CUGB06,kuguana,m,fence_trap,fish
+141,50,3.0,high,0.2333333333333333,5bca4453-f66b-40bc-a54d-09fab62566e6,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,14022023SAHB08,sahane,m,fence_trap,fish
+169,50,3.0,high,0.2333333333333333,f33778b3-3301-4691-80c6-68692988559b,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,01022023MORB03,morrumbene,f,shrimp_net,shrimp_net
+115,02,0.0,none,0.2333333333333333,affb9ddf-bde5-4005-8a5c-962978da994f,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,17022023NHCHB04,nhamaxaxa,m,gill_net,fish
+62,03,0.5,none,0.2333333333333333,a9a9124d-f801-444e-a6ac-6f1064ecb6a6,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,02022023MARB06,marrambone,m,hand_line,fish
+64,01,0.0,none,0.2333333333333333,c4bf73af-5f99-4b43-abd8-9373a369c415,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,02022023MARB07,marrambone,m,gill_net,fish
+170,50,3.0,high,0.2333333333333333,f33778b3-3301-4691-80c6-68692988559b,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,01022023MORB03,morrumbene,f,glean,glean
+167,01,0.0,none,0.2333333333333333,f33778b3-3301-4691-80c6-68692988559b,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,01022023MORB03,morrumbene,f,shrimp_net,shrimp_net
+48,78,0.0,none,0.2,ae7d8f6f-e1d1-484c-b65d-5b64c4bec7b8,togoma,dzitogoma,Caracóis,Volema pyrum,Melongenidae,mollusc,gastropod,1.0,02022023MARB03,marrambone,f,shrimp_net,shrimp_net
+215,53,0.0,none,0.2,412ebe42-d0ab-49cd-a390-790fb5dd06a9,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,24012023CUGB02,kuguana,m,glean,glean
+232,55,1.0,low,0.2,1dfbdb30-77d7-4a1e-aaf1-2a5bccccfb75,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,07022023CUGB07,kuguana,m,fence_trap,fish
+139,69,0.0,none,0.2,b5c8d980-c4f9-408d-93d1-0b4dad9a664c,simbatsani,simbatsani,,Garfarium pectinatum,Veneridae,mollusc,bivalve,1.0,14022023SAHB05,sahane,f,glean,glean
+230,52,0.0,none,0.2,1dfbdb30-77d7-4a1e-aaf1-2a5bccccfb75,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,07022023CUGB07,kuguana,m,fence_trap,fish
+228,78,0.0,none,0.2,454f8afd-86aa-4418-80e3-4e1ccb572b8c,togoma,dzitogoma,Caracóis,Volema pyrum,Melongenidae,mollusc,gastropod,1.0,07022023CUGB06,kuguana,m,fence_trap,fish
+96,56,1.5,mod,0.2,caac8748-ebed-413c-a5d2-a635b5bd8932,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,09022023NHMPB04,nhampossa,m,fence_trap,fish
+158,56,1.5,mod,0.2,5bf5b760-0855-442e-8ccf-d32db9f09235,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,01022023MORB01,morrumbene,m,shrimp_net,shrimp_net
+205,50,3.0,high,0.2,217d4e9d-94cc-407a-9aaf-9dabfa977971,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,24012023CUGB01,kuguana,m,drag_net,fish
+214,53,0.0,none,0.2,412ebe42-d0ab-49cd-a390-790fb5dd06a9,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,24012023CUGB02,kuguana,m,shrimp_net,shrimp_net
+216,53,0.0,none,0.2,412ebe42-d0ab-49cd-a390-790fb5dd06a9,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,24012023CUGB02,kuguana,m,gill_net,fish
+114,01,0.0,none,0.1666666666666666,affb9ddf-bde5-4005-8a5c-962978da994f,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,17022023NHCHB04,nhamaxaxa,m,gill_net,fish
+207,03,0.5,none,0.1666666666666666,217d4e9d-94cc-407a-9aaf-9dabfa977971,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,24012023CUGB01,kuguana,m,drag_net,fish
+231,53,0.0,none,0.1666666666666666,1dfbdb30-77d7-4a1e-aaf1-2a5bccccfb75,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,07022023CUGB07,kuguana,m,fence_trap,fish
+233,56,1.5,mod,0.1666666666666666,1dfbdb30-77d7-4a1e-aaf1-2a5bccccfb75,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,07022023CUGB07,kuguana,m,fence_trap,fish
+24,01,0.0,none,0.1666666666666666,7dc8a846-da63-495f-815e-10c1c4b6720d,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,04022023CHAB04,chamane,f,shrimp_net,shrimp_net
+90,56,1.5,mod,0.1333333333333333,615838ac-55f5-4537-ba76-fecefaddd226,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,31012023MUCB08,mucucune,f,shrimp_net,shrimp_net
+166,56,1.5,mod,0.1333333333333333,04827c1d-3bba-4bcb-a8be-1af1c071e30f,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,01022023MORB02,morrumbene,f,glean,glean
+163,52,0.0,none,0.1333333333333333,04827c1d-3bba-4bcb-a8be-1af1c071e30f,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MORB02,morrumbene,f,shrimp_net,shrimp_net
+159,64,0.0,none,0.1333333333333333,5bf5b760-0855-442e-8ccf-d32db9f09235,lihutu,mahutu,Amêijoa,Siliqua polita,Pharidae,mollusc,bivalve,1.0,01022023MORB01,morrumbene,m,shrimp_net,shrimp_net
+160,55,1.0,low,0.1333333333333333,5bf5b760-0855-442e-8ccf-d32db9f09235,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,01022023MORB01,morrumbene,m,shrimp_net,shrimp_net
+117,56,1.5,mod,0.1333333333333333,affb9ddf-bde5-4005-8a5c-962978da994f,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,17022023NHCHB04,nhamaxaxa,m,gill_net,fish
+57,56,1.5,mod,0.1333333333333333,fa135abb-d0cf-4f86-81fa-d786fd8a957a,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,02022023MARB04,marrambone,f,gill_net,fish
+56,56,1.5,mod,0.1333333333333333,fa135abb-d0cf-4f86-81fa-d786fd8a957a,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,02022023MARB04,marrambone,f,shrimp_net,shrimp_net
+55,56,1.5,mod,0.1333333333333333,fa135abb-d0cf-4f86-81fa-d786fd8a957a,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,02022023MARB04,marrambone,f,glean,glean
+70,74,0.0,none,0.1333333333333333,53eb3e09-7bc8-4d11-868d-4415c4329998,likolo,makolo,Caracóis,Potamididae,Potamididae,mollusc,gastropod,1.0,02022023MARB08,marrambone,m,basket_trap,fish
+165,56,1.5,mod,0.1333333333333333,04827c1d-3bba-4bcb-a8be-1af1c071e30f,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,01022023MORB02,morrumbene,f,shrimp_net,shrimp_net
+88,02,0.0,none,0.1333333333333333,615838ac-55f5-4537-ba76-fecefaddd226,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1.0,31012023MUCB08,mucucune,f,shrimp_net,shrimp_net
+164,52,0.0,none,0.1333333333333333,04827c1d-3bba-4bcb-a8be-1af1c071e30f,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MORB02,morrumbene,f,glean,glean
+206,55,1.0,low,0.1333333333333333,217d4e9d-94cc-407a-9aaf-9dabfa977971,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,24012023CUGB01,kuguana,m,drag_net,fish
+142,69,0.0,none,0.1333333333333333,5bca4453-f66b-40bc-a54d-09fab62566e6,simbatsani,simbatsani,,Garfarium pectinatum,Veneridae,mollusc,bivalve,1.0,14022023SAHB08,sahane,m,fence_trap,fish
+218,52,0.0,none,0.1,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,glean,glean
+189,56,1.5,mod,0.1,b16133a3-e0e9-4edf-8a63-f5fd5cde5cd1,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,18022023ILHB02,ilha,f,shrimp_net,shrimp_net
+190,56,1.5,mod,0.1,b16133a3-e0e9-4edf-8a63-f5fd5cde5cd1,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,18022023ILHB02,ilha,f,glean,glean
+204,56,1.5,mod,0.1,217d4e9d-94cc-407a-9aaf-9dabfa977971,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,24012023CUGB01,kuguana,m,drag_net,fish
+222,50,3.0,high,0.1,412ebe42-d0ab-49cd-a390-790fb5dd06a9,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,gill_net,fish
+219,52,0.0,none,0.1,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,gill_net,fish
+225,52,0.0,none,0.1,368b8b4c-a618-434a-8ebe-7f7fa8c143fc,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,07022023CUGB05,kuguana,m,drag_net,fish
+217,52,0.0,none,0.1,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,shrimp_net,shrimp_net
+221,50,3.0,high,0.1,412ebe42-d0ab-49cd-a390-790fb5dd06a9,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,glean,glean
+220,50,3.0,high,0.1,412ebe42-d0ab-49cd-a390-790fb5dd06a9,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,shrimp_net,shrimp_net
+119,71,,,0.0666666666666666,affb9ddf-bde5-4005-8a5c-962978da994f,nhasastani,,Amêijoa,Callista florida,Veneridae,mollusc,bivalve,1.0,17022023NHCHB04,nhamaxaxa,m,gill_net,fish
+67,56,1.5,mod,0.0666666666666666,c4bf73af-5f99-4b43-abd8-9373a369c415,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,02022023MARB07,marrambone,m,gill_net,fish
+118,63,0.0,none,0.0666666666666666,affb9ddf-bde5-4005-8a5c-962978da994f,nhamunhe,,Amêijoa,Tapes literatus,Veneridae,mollusc,bivalve,1.0,17022023NHCHB04,nhamaxaxa,m,gill_net,fish
+183,01,0.0,none,,b16133a3-e0e9-4edf-8a63-f5fd5cde5cd1,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,18022023ILHB02,ilha,f,shrimp_net,shrimp_net
+184,01,0.0,none,,b16133a3-e0e9-4edf-8a63-f5fd5cde5cd1,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,18022023ILHB02,ilha,f,glean,glean
+185,03,0.5,none,,b16133a3-e0e9-4edf-8a63-f5fd5cde5cd1,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,18022023ILHB02,ilha,f,shrimp_net,shrimp_net
+186,03,0.5,none,,b16133a3-e0e9-4edf-8a63-f5fd5cde5cd1,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,18022023ILHB02,ilha,f,glean,glean
+187,50,3.0,high,,b16133a3-e0e9-4edf-8a63-f5fd5cde5cd1,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,18022023ILHB02,ilha,f,shrimp_net,shrimp_net
+188,50,3.0,high,,b16133a3-e0e9-4edf-8a63-f5fd5cde5cd1,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,18022023ILHB02,ilha,f,glean,glean
+191,01,0.0,none,,6cd30d28-9c1e-4148-a597-7b9d40fc1ae2,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,18022023ILHB04,ilha,m,shrimp_net,shrimp_net
+193,01,0.0,none,,f5769b1d-ab41-4ec3-9364-13194af91f08,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1.0,19022023ILHB05,ilha,m,hand_line,fish
+194,03,0.5,none,,f5769b1d-ab41-4ec3-9364-13194af91f08,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,19022023ILHB05,ilha,m,hand_line,fish
+197,03,0.5,none,,c0927898-6afe-4a7f-98d1-4ec395b0e647,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,1902023ILHB06,ilha,f,glean,glean
+198,03,0.5,none,,c0927898-6afe-4a7f-98d1-4ec395b0e647,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,1902023ILHB06,ilha,f,shrimp_net,shrimp_net

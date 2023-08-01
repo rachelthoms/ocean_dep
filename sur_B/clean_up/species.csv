@@ -1,0 +1,77 @@
+resource_id,gitonga_s,gitonga_p,portuguese,scientific,family,phylum,category,focal,communities,seagrass
+01,hili,mihili,pescadinha,Sillago sihama,Sillaginidae,bony fish,fish,1,"ilha,nhamua,josina_machel,chamane,marrambone,mucucune,kuguana,nhamaxaxa,sahane,nguja,morrumbene",0
+02,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1,"nhamua,josina_machel,chamane,marrambone,mucucune,nhamaxaxa,nguja",1
+03,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1,"ilha,josina_machel,chamane,marrambone,mucucune,nhamaxaxa",1
+04,pata,dzipata,peixe zebras,Terapon jarbua,Teraponidae,bony fish,fish,1,nguja,1
+05,pata,dzipata,peixe zebras,Pelates quadrilineatus,Teraponidae,bony fish,fish,1,nguja,2
+06,gigulula,sigulula,esparo,Crenidens crenidens,Sparidae,bony fish,fish,1,"josina_machel,marrambone,mucucune,nhampossa,njuga",2
+07,nhambulungue,,carapau,Caranginae,Caranginae,bony fish,fish,1,nhamua,0
+10,tsava,dzitsava,cavala,Rastrellinger kanagurta,Scombridae,bony fish,fish,1,morrumbene,1
+11,kobo,,sardinhas,Amblygaster sirm,Dorosomatidae,bony fish,fish,1,nhamaxaxa,0
+50,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1,"ilha,nhamua,josina_machel,chamane,marrambone,mucucune,nhampossa,madava,kuguana,nhamaxaxa,sahane,nguja,morrumbene",2
+52,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1,"madava, kuguana, morrumbene",0
+53,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1,"madava,kuguana",0
+54,honho,mihonho,Lula,Loliginidae,Loliginidae,cephlopod,cephlopods,1,morrumbene,0
+55,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1,kuguana,1
+56,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1,"ilha,nhamua,josina_machel,chamane,marrambone,mucucune,nhampossa,madava,kuguana,nhamaxaxa,sahane,nguja,morrumbene",1
+60,litewo,matewo,,Pinna muricata,Pinnidae,mollusc,bivalve,1,"ilha,nhamua,josina_machel,chamane,sahane",2
+61,livalo,mavalo,ostra,Margaritidae,Margaritidae,mollusc,bivalve,1,"ilha,nhamua,josina_machel",2
+63,nhamunhe,,Amêijoa,Tapes literatus,Veneridae,mollusc,bivalve,1,"mucucune,sahane,nguja",2
+64,lihutu,mahutu,Amêijoa,Siliqua polita,Pharidae,mollusc,bivalve,1,morrumbene,0
+68,nhanguedwa,nhanguedwa,canivetes,Solenidae,Solenidae,mollusc,bivalve,1,"madava,kuguana,morrumbene",0
+69,simbatsani,simbatsani,,Garfarium pectinatum,Veneridae,mollusc,bivalve,1,"sahane,nguja",0
+70,nhakumbe,,Amêijoa,Serratina capsoides,Tellinidae,mollusc,bivalve,1,madava,0
+71,nhasastani,,Amêijoa,Callista florida,Veneridae,mollusc,bivalve,1,nhamaxaxa,2
+74,likolo,makolo,Caracóis,Potamididae,Potamididae,mollusc,gastropod,1,marrambone,0
+78,togoma,dzitogoma,Caracóis,Volema pyrum,Melongenidae,mollusc,gastropod,1,"mucucune,nhampossa,madava,kuguana",1
+08,tendre,dzitendre,Sapateiros,Platycephalidae,Platycephalidae,bony fish,fish,0,,
+09,tsongua,dzitsongua,ladrões,Lethrinidae,Lethrinidae,bony fish,fish,0,,
+12,tserewa,dzitserewa,xareu,Caranginae,Caranginae,bony fish,fish,0,,
+13,ligumba,magumba,sardinha,Hilsa kelee,Dorosomatidae,bony fish,fish,0,,
+14,tsacanhani,,Carapau barbatana,Decapterus macrosoma,Caranginae,bony fish,fish,0,,
+15,nhakomani,,Salmonetes,mullidae ,mullidae ,bony fish,fish,0,,
+16,tsogola,mitsogola,Cornetas,fistulariidae,fistulariidae,bony fish,fish,0,,
+17,sololo,dzisolo,,Lethrinus variegatus,Lethrinidae,bony fish,fish,0,,
+18,fiti,mifiti,barracudas,Sphyraenidae,Sphyraenidae,bony fish,fish,0,,
+19,fiti,mifiti,barracudas,Sphyraenidae,Sphyraenidae,bony fish,fish,0,,
+20,gitongwe,sitongwe,garoupas,Serranidae,Serranidae,bony fish,fish,0,,
+21,mbabe,dzimbabe,Coelho,Siganus sutor,Siganidae,bony fish,fish,0,,
+22,gidzuani,,tilápia,Cichlidae,Cichlidae,bony fish,fish,0,,
+23,nhawondrwe,vanhawibdrwe,peixe-banana,Synodontidae,Synodontidae,bony fish,fish,0,,
+24,nhabugue,vanhabugue,papagaios,Scaridae,Scaridae,bony fish,fish,0,,
+26,kologolo,,Pargo limao ,Plectorhinchus flavomaculatus,Haemulinae,bony fish,fish,0,,
+27,koria,dzikoria,Feneiras,lithognathus mormyrus,Sparidae,bony fish,fish,0,,
+28,nharongue,,tainhas,Mugil cephalus,Mugilidae,bony fish,fish,0,,
+29,livandrevandre,sivandrevandre,machopes,Scomberoides tol,Caranginae,bony fish,fish,0,,
+30,kuku,dzikuku,Agulhas,"Belonidae, Hemiranphidae","Belonidae, Hemiranphidae",bony fish,fish,0,,
+31,nhakomi,,Peixes-rei,Atherinidae,Atherinidae,bony fish,fish,0,,
+32,tserewa,dzitserewa,Xareus,Caranginae,Caranginae,bony fish,fish,0,,
+34,kwalala,sikwalala,Rombanas,Ambassidae,Ambassidae,bony fish,fish,0,,
+35,likerere,makerere,Pargo rusell,lutjanus russellii,Haemulinae,bony fish,fish,0,,
+36,nani,,Anchovetas,Engraulidae,Engraulidae,bony fish,fish,0,,
+37,nhakuse,,,,,bony fish,fish,0,,
+38,nhabundre,vanhabundre,Peixes bola,"Diodontidae, Tetraodontidae ","Diodontidae, Tetraodontidae ",bony fish,fish,0,,
+39,tiguatigua,,,,,bony fish,fish,0,,
+41,vbesu,,Bodibes,Cheilio inermis,Labridae,bony fish,fish,0,,
+43,kobo,,Sardinha lisboa,Clupeidae,Clupeidae,bony fish,fish,0,,
+44,gypandramvbuma,sypadramvbuma,Dourado,Rhabdosargus sarba,Sparidae,bony fish,fish,0,,
+45,ligwidzigwidzi,magwidzigwidzi,Pargo trovador,Plectorhinchus schotaf,Haemulinae,bony fish,fish,0,,
+46,likehani,makehani,Safio comum,Muraenesox bagio,Muraenesocidae,bony fish,fish,0,,
+47,nguiyi,dzinguiyi,Plotosidae,Plotosidae,Plotosidae,bony fish,fish,0,,
+49,lidume,madume,Pargo raiado,Plectorhinchus plagiodesmus,Haemulinae,bony fish,fish,0,,
+51,gingave,singave,Caranngeujo crenado,thalamita crenata ,Portunidae,crustacean,crabs,0,,
+57,,minhata,minhoca,Sipunculus indicus,Sipunculidae,segmented worms,segmented worms,0,,
+58,thifa,mitifa,Cobras,Ophichthidae,Ophichthidae,bony fish,fish,0,,
+59,likulu,makulu,Linguados,Cynoglossidae,Cynoglossidae,bony fish,fish,0,,
+65,nhandrendre,,,,,mollusc,bivalve,0,,
+66,lihoma,mahoma,mexilhão,Mitilydae,Mitilydae,mollusc,bivalve,0,,
+67,guiredenene,siredenene,ameijoa,Anadara antiquata,Arcidae,mollusc,bivalve,0,,
+72,nhamuele,,Caracóis,Gibberulus gibberulus,Strombidae,mollusc,gastropod,0,,
+73,nhatogue,,Amêijoa,Eumarcia paupercula,Veneridae,mollusc,bivalve,0,,
+75,nvuma,dzimbvuma,Caracóis,Polinices mammilla,Naticidae,mollusc,gastropod,0,,
+76,lirengue,marengue,,Peronia,Onchidiidae,mollusc,,0,,
+77,tsanga,dzistanga,Caracóis,Murex brevispina,Muricidae,mollusc,gastropod,0,,
+79,guikhokoroma,sikhokoroma,,Pleuroploca trapezium,Fasciolarriidae,mollusc,gastropod,0,,
+80,solo,dzisolo,,Cypraeidae,Cypraeidae,mollusc,gastropod,0,,
+84,guiccucuani,siccucuani,,Gafrarium divaricatum,Veneridae,mollusc,bivalve,0,,
+NR,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0,,
