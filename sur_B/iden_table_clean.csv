@@ -103,10 +103,10 @@
 42,03,0.5,none,0.2666666666666666,d4d143b4-de71-42bd-be9e-b42bcadd5863,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB03,chamane,m,shrimp_net,shrimp_net
 33,03,0.5,none,1.0,1d5f5cdd-4deb-4017-ae95-ed677c22bd24,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,09032023JOSB08,josina_machel,f,glean,glean
 71,03,0.5,none,0.2333333333333333,fb35740b-c147-41b7-b604-35eed1bf5c77,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1.0,04022023CHAB08,chamane,m,shrimp_net,shrimp_net
-255,04,3.0,high,1.0,8abbe022-1d3d-4f37-989c-f804596f7402,pata,dzipata,peixe zebras,Teraponidae,Teraponidae,bony fish,fish,1.0,04032023NGUB05,nguja,m,gill_net,fish
-211,04,3.0,high,0.0666666666666666,8407b1b2-9c62-4161-a560-a8c8415ca76a,pata,dzipata,peixe zebras,Teraponidae,Teraponidae,bony fish,fish,1.0,08022023MADB06,madava,m,gill_net,fish
-235,04,3.0,high,0.4,ba1de70c-3350-4192-9540-077338da9ce6,pata,dzipata,peixe zebras,Teraponidae,Teraponidae,bony fish,fish,1.0,17022023NHCHB05,nhamaxaxa,m,hand_line,fish
-250,04,3.0,high,0.3333333333333333,a6e2b0b2-8d88-42c8-b600-7b0619713312,pata,dzipata,peixe zebras,Teraponidae,Teraponidae,bony fish,fish,1.0,04032023NGUB01,nguja,m,hand_line,fish
+255,04,3.0,high,1.0,8abbe022-1d3d-4f37-989c-f804596f7402,pata,dzipata,peixe zebras,Terapon jarbua,Teraponidae,bony fish,fish,1.0,04032023NGUB05,nguja,m,gill_net,fish
+211,04,3.0,high,0.0666666666666666,8407b1b2-9c62-4161-a560-a8c8415ca76a,pata,dzipata,peixe zebras,Terapon jarbua,Teraponidae,bony fish,fish,1.0,08022023MADB06,madava,m,gill_net,fish
+235,04,3.0,high,0.4,ba1de70c-3350-4192-9540-077338da9ce6,pata,dzipata,peixe zebras,Terapon jarbua,Teraponidae,bony fish,fish,1.0,17022023NHCHB05,nhamaxaxa,m,hand_line,fish
+250,04,3.0,high,0.3333333333333333,a6e2b0b2-8d88-42c8-b600-7b0619713312,pata,dzipata,peixe zebras,Terapon jarbua,Teraponidae,bony fish,fish,1.0,04032023NGUB01,nguja,m,hand_line,fish
 305,06,2.5,mod,0.3333333333333333,f5769b1d-ab41-4ec3-9364-13194af91f08,gigulula,sigulula,esparo,Crenidens crenidens,Sparidae,bony fish,fish,1.0,19022023ILHB05,ilha,m,hand_line,fish
 149,06,2.5,mod,0.0666666666666666,72b20ec3-78b0-44b1-8f62-06504a26e4c5,gigulula,sigulula,esparo,Crenidens crenidens,Sparidae,bony fish,fish,1.0,31012023MUCB06,mucucune,m,gill_net,fish
 31,06,2.5,mod,0.2,e6132e33-e9f3-45ea-a5cf-7d565844a22c,gigulula,sigulula,esparo,Crenidens crenidens,Sparidae,bony fish,fish,1.0,15022023JOSB06,josina_machel,m,hand_line,fish
@@ -123,8 +123,8 @@
 100,06,2.5,mod,0.1,fa135abb-d0cf-4f86-81fa-d786fd8a957a,gigulula,sigulula,esparo,Crenidens crenidens,Sparidae,bony fish,fish,1.0,02022023MARB04,marrambone,f,shrimp_net,shrimp_net
 101,06,2.5,mod,0.1,fa135abb-d0cf-4f86-81fa-d786fd8a957a,gigulula,sigulula,esparo,Crenidens crenidens,Sparidae,bony fish,fish,1.0,02022023MARB04,marrambone,f,gill_net,fish
 111,06,2.5,mod,0.0666666666666666,e8d84b41-6838-4a4d-b98d-66385c122993,gigulula,sigulula,esparo,Crenidens crenidens,Sparidae,bony fish,fish,1.0,02022023MARB05,marrambone,m,fence_trap,fish
-9,07,3.0,high,0.1333333333333333,1205bf41-13d7-4421-b564-4a77c527cd17,nhambulungue,,carapau,Caranginae,Caranginae,bony fish,fish,1.0,13022023NHMUB01,nhamua,m,fence_trap,fish
-311,07,3.0,high,1.0,66a27df6-476b-4917-8244-24e557b34ede,nhambulungue,,carapau,Caranginae,Caranginae,bony fish,fish,1.0,19022023ILHB07,ilha,m,gill_net,fish
+9,07,0.0,none,0.1333333333333333,1205bf41-13d7-4421-b564-4a77c527cd17,nhambulungue,,carapau,Caranginae,Caranginae,bony fish,fish,1.0,13022023NHMUB01,nhamua,m,fence_trap,fish
+311,07,0.0,none,1.0,66a27df6-476b-4917-8244-24e557b34ede,nhambulungue,,carapau,Caranginae,Caranginae,bony fish,fish,1.0,19022023ILHB07,ilha,m,gill_net,fish
 280,10,0.0,none,0.1666666666666666,943aa64d-7c5c-4594-944e-529e0b325617,tsava,dzitsava,cavala,Rastrellinger kanagurta,Scombridae,bony fish,fish,1.0,01022023MOR04,morrumbene,f,glean,glean
 286,10,0.0,none,0.2333333333333333,d92b97c0-4a75-4f45-9115-4cb6ac9109ad,tsava,dzitsava,cavala,Rastrellinger kanagurta,Scombridae,bony fish,fish,1.0,01022023MORBO5,morrumbene,m,fence_trap,fish
 261,10,0.0,none,0.1333333333333333,5bf5b760-0855-442e-8ccf-d32db9f09235,tsava,dzitsava,cavala,Rastrellinger kanagurta,Scombridae,bony fish,fish,1.0,01022023MORB01,morrumbene,m,shrimp_net,shrimp_net
@@ -186,23 +186,23 @@
 331,50,3.0,high,0.0333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,gill_net,fish
 78,50,3.0,high,0.2666666666666666,6e76bb44-7881-4dfe-aff2-019452e7f1ef,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,02022023MARB02,marrambone,f,shrimp_net,shrimp_net
 124,50,3.0,high,0.0333333333333333,c4bf73af-5f99-4b43-abd8-9373a369c415,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1.0,02022023MARB07,marrambone,m,gill_net,fish
-202,52,0.0,none,0.2333333333333333,6aff3bd5-1d7f-4dfc-a530-7fd33a3b1432,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB05,madava,m,gill_net,fish
-207,52,0.0,none,0.0333333333333333,8407b1b2-9c62-4161-a560-a8c8415ca76a,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB06,madava,m,gill_net,fish
-282,52,0.0,none,0.1333333333333333,943aa64d-7c5c-4594-944e-529e0b325617,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MOR04,morrumbene,f,glean,glean
-327,52,0.0,none,0.0333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,glean,glean
-328,52,0.0,none,0.0333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,gill_net,fish
-213,52,0.0,none,0.3333333333333333,1436c090-ffc1-44f1-8a1f-115e2164b9b1,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB08,madava,f,shrimp_net,shrimp_net
-214,52,0.0,none,0.3333333333333333,1436c090-ffc1-44f1-8a1f-115e2164b9b1,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB08,madava,f,glean,glean
-224,52,0.0,none,0.4333333333333333,8719e18a-7160-440e-884e-330fdba6d7a1,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,17022023NHCHB02,nhamaxaxa,f,glean,glean
-288,52,0.0,none,0.1,d92b97c0-4a75-4f45-9115-4cb6ac9109ad,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MORBO5,morrumbene,m,fence_trap,fish
-263,52,0.0,none,0.1,5bf5b760-0855-442e-8ccf-d32db9f09235,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MORB01,morrumbene,m,shrimp_net,shrimp_net
-198,52,0.0,none,0.2666666666666666,719608f1-9b88-42cc-b983-888cd656656a,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB04,madava,f,glean,glean
-326,52,0.0,none,0.0333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,shrimp_net,shrimp_net
-197,52,0.0,none,0.2666666666666666,719608f1-9b88-42cc-b983-888cd656656a,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB04,madava,f,shrimp_net,shrimp_net
-183,52,0.0,none,0.2,e12a739b-ed4a-4ff7-94db-d034a066dd23,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB01,madava,f,fence_trap,fish
-192,52,0.0,none,0.2333333333333333,632655b3-8586-4c96-bf14-73c3ddeea90e,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB03,madava,m,fence_trap,fish
-182,52,0.0,none,0.2,e12a739b-ed4a-4ff7-94db-d034a066dd23,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB01,madava,f,shrimp_net,shrimp_net
-293,52,0.0,none,0.0666666666666666,b4a29a62-c0e1-40fd-835b-a134449801ca,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1.0,O1O22023MOR06,morrumbene,m,drag_net,fish
+202,52,0.0,none,0.2333333333333333,6aff3bd5-1d7f-4dfc-a530-7fd33a3b1432,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB05,madava,m,gill_net,fish
+207,52,0.0,none,0.0333333333333333,8407b1b2-9c62-4161-a560-a8c8415ca76a,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB06,madava,m,gill_net,fish
+282,52,0.0,none,0.1333333333333333,943aa64d-7c5c-4594-944e-529e0b325617,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MOR04,morrumbene,f,glean,glean
+327,52,0.0,none,0.0333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,glean,glean
+328,52,0.0,none,0.0333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,gill_net,fish
+213,52,0.0,none,0.3333333333333333,1436c090-ffc1-44f1-8a1f-115e2164b9b1,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB08,madava,f,shrimp_net,shrimp_net
+214,52,0.0,none,0.3333333333333333,1436c090-ffc1-44f1-8a1f-115e2164b9b1,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB08,madava,f,glean,glean
+224,52,0.0,none,0.4333333333333333,8719e18a-7160-440e-884e-330fdba6d7a1,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,17022023NHCHB02,nhamaxaxa,f,glean,glean
+288,52,0.0,none,0.1,d92b97c0-4a75-4f45-9115-4cb6ac9109ad,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MORBO5,morrumbene,m,fence_trap,fish
+263,52,0.0,none,0.1,5bf5b760-0855-442e-8ccf-d32db9f09235,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,01022023MORB01,morrumbene,m,shrimp_net,shrimp_net
+198,52,0.0,none,0.2666666666666666,719608f1-9b88-42cc-b983-888cd656656a,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB04,madava,f,glean,glean
+326,52,0.0,none,0.0333333333333333,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,24012023CUGB02,kuguana,m,shrimp_net,shrimp_net
+197,52,0.0,none,0.2666666666666666,719608f1-9b88-42cc-b983-888cd656656a,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB04,madava,f,shrimp_net,shrimp_net
+183,52,0.0,none,0.2,e12a739b-ed4a-4ff7-94db-d034a066dd23,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB01,madava,f,fence_trap,fish
+192,52,0.0,none,0.2333333333333333,632655b3-8586-4c96-bf14-73c3ddeea90e,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB03,madava,m,fence_trap,fish
+182,52,0.0,none,0.2,e12a739b-ed4a-4ff7-94db-d034a066dd23,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,08022023MADB01,madava,f,shrimp_net,shrimp_net
+293,52,0.0,none,0.0666666666666666,b4a29a62-c0e1-40fd-835b-a134449801ca,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1.0,O1O22023MOR06,morrumbene,m,drag_net,fish
 313,53,0.0,none,0.0666666666666666,217d4e9d-94cc-407a-9aaf-9dabfa977971,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,24012023CUGB01,kuguana,m,drag_net,fish
 343,53,0.0,none,0.3333333333333333,454f8afd-86aa-4418-80e3-4e1ccb572b8c,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,07022023CUGB06,kuguana,m,fence_trap,fish
 193,53,0.0,none,0.2333333333333333,632655b3-8586-4c96-bf14-73c3ddeea90e,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,08022023MADB03,madava,m,fence_trap,fish
@@ -218,14 +218,14 @@
 336,53,0.0,none,0.3,f24eae6e-daf3-4cb3-bc7f-4c8139f8238b,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,07022023CUGB03,kuguana,f,glean,glean
 324,53,0.0,none,0.3,412ebe42-d0ab-49cd-a390-790fb5dd06a9,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,24012023CUGB02,kuguana,m,glean,glean
 185,53,0.0,none,0.2333333333333333,e12a739b-ed4a-4ff7-94db-d034a066dd23,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1.0,08022023MADB01,madava,f,fence_trap,fish
-294,54,3.0,high,0.1333333333333333,b4a29a62-c0e1-40fd-835b-a134449801ca,honho,mihonho,Lula,Loliginidae,Loliginidae,cephlopod,cephlopods,1.0,O1O22023MOR06,morrumbene,m,drag_net,fish
-284,54,3.0,high,0.2,943aa64d-7c5c-4594-944e-529e0b325617,honho,mihonho,Lula,Loliginidae,Loliginidae,cephlopod,cephlopods,1.0,01022023MOR04,morrumbene,f,glean,glean
-332,55,1.0,low,0.1666666666666666,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,24012023CUGB02,kuguana,m,shrimp_net,shrimp_net
-333,55,1.0,low,0.1666666666666666,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,24012023CUGB02,kuguana,m,glean,glean
-316,55,1.0,low,0.2333333333333333,217d4e9d-94cc-407a-9aaf-9dabfa977971,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,24012023CUGB01,kuguana,m,drag_net,fish
-340,55,1.0,low,0.4666666666666667,368b8b4c-a618-434a-8ebe-7f7fa8c143fc,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,07022023CUGB05,kuguana,m,drag_net,fish
-350,55,1.0,low,0.2,d63dc568-99da-438e-bd41-3a79bf13b0d9,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,07022023CUGBO8,kuguana,f,glean,glean
-334,55,1.0,low,0.1666666666666666,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,24012023CUGB02,kuguana,m,gill_net,fish
+294,54,1.0,low,0.1333333333333333,b4a29a62-c0e1-40fd-835b-a134449801ca,honho,mihonho,Lula,Loliginidae,Loliginidae,cephlopod,cephlopods,1.0,O1O22023MOR06,morrumbene,m,drag_net,fish
+284,54,1.0,low,0.2,943aa64d-7c5c-4594-944e-529e0b325617,honho,mihonho,Lula,Loliginidae,Loliginidae,cephlopod,cephlopods,1.0,01022023MOR04,morrumbene,f,glean,glean
+332,55,3.0,high,0.1666666666666666,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,24012023CUGB02,kuguana,m,shrimp_net,shrimp_net
+333,55,3.0,high,0.1666666666666666,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,24012023CUGB02,kuguana,m,glean,glean
+316,55,3.0,high,0.2333333333333333,217d4e9d-94cc-407a-9aaf-9dabfa977971,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,24012023CUGB01,kuguana,m,drag_net,fish
+340,55,3.0,high,0.4666666666666667,368b8b4c-a618-434a-8ebe-7f7fa8c143fc,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,07022023CUGB05,kuguana,m,drag_net,fish
+350,55,3.0,high,0.2,d63dc568-99da-438e-bd41-3a79bf13b0d9,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,07022023CUGBO8,kuguana,f,glean,glean
+334,55,3.0,high,0.1666666666666666,412ebe42-d0ab-49cd-a390-790fb5dd06a9,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1.0,24012023CUGB02,kuguana,m,gill_net,fish
 259,56,1.5,mod,1.0,c07b295a-d4ce-4f79-b7c1-c11f284e02c4,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,04032023NGUB08,nguja,f,shrimp_net,shrimp_net
 264,56,1.5,mod,0.4666666666666667,5bf5b760-0855-442e-8ccf-d32db9f09235,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,01022023MORB01,morrumbene,m,shrimp_net,shrimp_net
 347,56,1.5,mod,0.3,1dfbdb30-77d7-4a1e-aaf1-2a5bccccfb75,lipandzi,mavbandzi,Camarao,Penaeidae,Penaeidae,crustacean,prawns,1.0,07022023CUGB07,kuguana,m,fence_trap,fish
@@ -337,7 +337,7 @@
 277,68,0.0,none,0.1333333333333333,f33778b3-3301-4691-80c6-68692988559b,nhanguedwa,nhanguedwa,canivetes,Solenidae,Solenidae,mollusc,bivalve,1.0,01022023MORB03,morrumbene,f,shrimp_net,shrimp_net
 189,68,0.0,none,0.2,e12a739b-ed4a-4ff7-94db-d034a066dd23,nhanguedwa,nhanguedwa,canivetes,Solenidae,Solenidae,mollusc,bivalve,1.0,08022023MADB01,madava,f,fence_trap,fish
 188,68,0.0,none,0.2,e12a739b-ed4a-4ff7-94db-d034a066dd23,nhanguedwa,nhanguedwa,canivetes,Solenidae,Solenidae,mollusc,bivalve,1.0,08022023MADB01,madava,f,shrimp_net,shrimp_net
-225,71,,,0.2,8719e18a-7160-440e-884e-330fdba6d7a1,nhasastani,,Amêijoa,Callista florida,Veneridae,mollusc,bivalve,1.0,17022023NHCHB02,nhamaxaxa,f,glean,glean
+225,71,3.0,high,0.2,8719e18a-7160-440e-884e-330fdba6d7a1,nhasastani,,Amêijoa,Callista florida,Veneridae,mollusc,bivalve,1.0,17022023NHCHB02,nhamaxaxa,f,glean,glean
 82,74,0.0,none,0.1666666666666666,6e76bb44-7881-4dfe-aff2-019452e7f1ef,likolo,makolo,Caracóis,Potamididae,Potamididae,mollusc,gastropod,1.0,02022023MARB02,marrambone,f,shrimp_net,shrimp_net
 88,74,0.0,none,0.1,ae7d8f6f-e1d1-484c-b65d-5b64c4bec7b8,likolo,makolo,Caracóis,Potamididae,Potamididae,mollusc,gastropod,1.0,02022023MARB03,marrambone,f,shrimp_net,shrimp_net
 114,74,0.0,none,0.1333333333333333,e8d84b41-6838-4a4d-b98d-66385c122993,likolo,makolo,Caracóis,Potamididae,Potamididae,mollusc,gastropod,1.0,02022023MARB05,marrambone,m,fence_trap,fish

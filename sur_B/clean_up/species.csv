@@ -3,13 +3,13 @@ resource_id,gitonga_s,gitonga_p,portuguese,scientific,family,phylum,category,foc
 02,livbionho,mavbionho,Melanúria comum,Gerres oyena,Gerreidae,bony fish,fish,1,"nhamua,josina_machel,chamane,marrambone,mucucune,nhamaxaxa,nguja",1
 03,salani,,Melanúria timoneira,Gerres longirostris,Gerreidae,bony fish,fish,1,"ilha,josina_machel,chamane,marrambone,mucucune,nhamaxaxa",1
 04,pata,dzipata,peixe zebras,Terapon jarbua,Teraponidae,bony fish,fish,1,nguja,1
-05,pata,dzipata,peixe zebras,Pelates quadrilineatus,Teraponidae,bony fish,fish,1,nguja,2
+05,pata,dzipata,peixe zebras,Pelates quadrilineatus,Teraponidae,bony fish,fish,0,nguja,2
 06,gigulula,sigulula,esparo,Crenidens crenidens,Sparidae,bony fish,fish,1,"josina_machel,marrambone,mucucune,nhampossa,njuga",2
 07,nhambulungue,,carapau,Caranginae,Caranginae,bony fish,fish,1,nhamua,0
 10,tsava,dzitsava,cavala,Rastrellinger kanagurta,Scombridae,bony fish,fish,1,morrumbene,1
 11,kobo,,sardinhas,Amblygaster sirm,Dorosomatidae,bony fish,fish,1,nhamaxaxa,0
 50,ndrolo,dzindrolo,Caranguejo,Portunus pelagicus,Portunidae,crustacean,crabs,1,"ilha,nhamua,josina_machel,chamane,marrambone,mucucune,nhampossa,madava,kuguana,nhamaxaxa,sahane,nguja,morrumbene",2
-52,gihologo,sihologo,Santola,scylla serrata ,Portunidae,crustacean,crabs,1,"madava, kuguana, morrumbene",0
+52,gihologo,sihologo,Santola,Scylla serrata ,Portunidae,crustacean,crabs,1,"madava, kuguana, morrumbene",0
 53,lisaba,masaba,Camarao tigre gigante,Penaeus monodon,Penaeidae,crustacean,prawns,1,"madava,kuguana",0
 54,honho,mihonho,Lula,Loliginidae,Loliginidae,cephlopod,cephlopods,1,morrumbene,0
 55,gudua,,Choco,Sepiidae,Sepiidae,cephlopod,cephlopods,1,kuguana,1
@@ -74,4 +74,4 @@ resource_id,gitonga_s,gitonga_p,portuguese,scientific,family,phylum,category,foc
 79,guikhokoroma,sikhokoroma,,Pleuroploca trapezium,Fasciolarriidae,mollusc,gastropod,0,,
 80,solo,dzisolo,,Cypraeidae,Cypraeidae,mollusc,gastropod,0,,
 84,guiccucuani,siccucuani,,Gafrarium divaricatum,Veneridae,mollusc,bivalve,0,,
-NR,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0,,
+99,unknown,unknown,unknown,unknown,unknown,unknown,unknown,0,,
